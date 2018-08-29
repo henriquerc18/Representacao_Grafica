@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Ex13_Henrique_Texto_em_Espiral.svg"
+   inkscape:export-filename="/home/henriquerc_18/Documentos/Representacao_Grafica/Ex13_Henrique_Texto_em_Espiral.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-23.516913"
+     inkscape:cy="711.90567"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3336"
+       sodipodi:cx="125.71429"
+       sodipodi:cy="363.79077"
+       sodipodi:expansion="1"
+       sodipodi:revolution="1.2700509"
+       sodipodi:radius="20.801159"
+       sodipodi:argument="-0.5924589"
+       sodipodi:t0="0"
+       d="m 125.71429,363.79077 c 2.04367,-1.37564 2.86261,2.07614 2.28641,3.39672 -1.56149,3.5787 -6.4707,3.24392 -9.07985,1.1761 -4.66716,-3.69886 -3.91339,-10.78892 -0.0658,-14.76297 5.64651,-5.83209 15.1703,-4.61537 20.4461,1.04452 7.03181,7.54374 5.33195,19.5747 -2.15483,26.12922 -0.65725,0.57541 -1.35161,1.10833 -2.07691,1.59515"
+       transform="matrix(13.649258,0,0,11.9807,-1504.6523,-3946.974)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:60px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3340"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><textPath
+         xlink:href="#path3336"
+         id="textPath3344"><tspan
+   id="tspan3342">Não sei o que escrever neste espiral</tspan></textPath></text>
+  </g>
+</svg>
